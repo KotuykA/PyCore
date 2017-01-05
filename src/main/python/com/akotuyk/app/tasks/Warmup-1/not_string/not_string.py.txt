@@ -1,0 +1,11 @@
+def not_string(str):
+  
+	i='not'
+  
+	if str.startswith(i):
+    
+		return str
+  
+	else:
+    
+		return i+' '+str
