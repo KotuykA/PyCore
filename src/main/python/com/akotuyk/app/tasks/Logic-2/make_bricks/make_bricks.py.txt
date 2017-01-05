@@ -1,0 +1,9 @@
+def make_bricks(small, big, goal):
+  
+	if small+(big*5) >= goal:
+    
+		return True
+  
+	else:
+    
+		return False
