@@ -1,0 +1,5 @@
+def array_count9(nums):
+  
+	n=(9)
+  
+	return nums.count(n)

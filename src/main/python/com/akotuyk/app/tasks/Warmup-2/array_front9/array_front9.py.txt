@@ -1,0 +1,7 @@
+def array_front9(nums):
+  
+	if nums.count(9) >= 1 and 9 in nums[0:3]:
+    
+		return True
+  
+	return False

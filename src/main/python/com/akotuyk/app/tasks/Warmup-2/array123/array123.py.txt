@@ -1,0 +1,13 @@
+def array123(nums):
+  
+	a=1
+  
+	b=2
+  
+	c=3
+  
+	if nums.count(a)>=1 and nums.count(b)>=1 and nums.count(c)>=1:
+    
+		return True
+  
+	return False
